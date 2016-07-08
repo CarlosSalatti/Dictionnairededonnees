@@ -6,11 +6,14 @@ import com.example.controleur.AnnonceVehiculeCtrl;
 import com.example.controleur.UtilisateurClientCtrl;
 import com.example.controleur.UtilisateurModerateurCtrl;
 import com.example.outils.DateUtil;
+
 import java.io.IOException;
 import java.util.ArrayList;
 
 public class DictionnaireDeDonnes {
     public static void main(String[] args) throws IOException {
+
+        System.out.println("Hello World");
 
         // Entrees et traitement des données - Début
         try {
